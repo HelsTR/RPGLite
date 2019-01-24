@@ -32,6 +32,8 @@ Release | Undefined | Not available
 - Fixed 2D aspect ratio for non 4:3 screens
 - Allow black color in names
 - Server pause mode
+- Speed-o-meter
+- Custom HUDs (JK2 & Dark Forces II style)
 - Real time clock
 - Show bacta in belt (3D model)
 - Show current weapon in back (3D model)
@@ -45,9 +47,9 @@ There is the list of people's requests you can see [here](https://github.com/Tri
 
 The following people helped me solve problems, supported me and advised me or helped me directly.
 
-- Noodle (UI and map modding)
+- Noodle (UI, modeling and map modding)
 - Midtaurus & =AJC= clan (Support and testing)
-- Flendo (Map modding)
+- Flendo (Map modding and testing)
 - Hels (Planning and testing)
 
 # Contact
