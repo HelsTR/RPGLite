@@ -17,6 +17,7 @@ Release | Undefined | Not available
 - User account and profile system
 - Administration management system
 - Credit system (Buy Weapons, Vehicles and NPC)
+- User leveling system
 - NPC follower and control
 - In-game mail & notification system
 - Custom player classes
@@ -25,6 +26,7 @@ Release | Undefined | Not available
 - Custom map entities (Weapon generator, NPC helper, etc...)
 - Custom atmospherics effects (Rain, snow, sun, etc...)
 - Grapple hook
+- Manual lightsaber blocking system
 
 # Other features
 - Fixed 2D aspect ratio for non 4:3 screens
@@ -41,11 +43,12 @@ There is the list of people's requests you can see [here](https://github.com/Tri
 
 # Special Thanks
 
-The people below helped me to solve problems and help in this project by giving me advice or helping me directly.
+The following people helped me solve problems, supported me and advised me or helped me directly.
 
 - Noodle (UI and map modding)
-- Mid Taurus & =AJC= clan (Support and testing)
+- Midtaurus & =AJC= clan (Support and testing)
 - Flendo (Map modding)
+- Hels (Planning and testing)
 
 # Contact
 
