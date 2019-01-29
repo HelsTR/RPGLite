@@ -27,11 +27,14 @@ Release | Undefined | Not available
 - Custom atmospherics effects (Rain, snow, sun, etc...)
 - Grapple hook
 - Manual lightsaber blocking system
+- Damage & score plums display
 
 # Other features
 - Fixed 2D aspect ratio for non 4:3 screens
 - Allow black color in names
 - Server pause mode
+- Allow multiple duel challenges
+- Customizable duel challenge modes (Force, melee and guns)
 - Speed-o-meter
 - Custom HUDs (JK2 & Dark Forces II style)
 - Real time clock
